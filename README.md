@@ -68,3 +68,5 @@ ULA Logo x2
 UN Logo
 
 UAE Space Agency Logo
+
+Put the texture pack Png.Textures.BP.preview.zip) into "Steam\steamapps\common\Spaceflight Simulator\Spaceflight Simulator Game\Mods\Custom Assets\Texture Packs" and put the bp file (Lots.of.Logos.zip) into "Steam\steamapps\common\Spaceflight Simulator\Spaceflight Simulator Game\Saving\Blueprints"
