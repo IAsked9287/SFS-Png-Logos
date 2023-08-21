@@ -63,7 +63,7 @@ Turkish Space Agency Logo
 
 UK Space Agency Logo
 
-ULA x2
+ULA Logo x2
 
 UN Logo
 
