@@ -1,7 +1,7 @@
 # SFS-Png-Logos
 Adds more textures to Spaceflight Simulator specifically png ones
 
-**BP editing is highly advised, and some textures might not work with ex: size 4 fuel tanks so use Bp editing**
+**BP editing is highly advised, and some textures might not work with (ex: size 4 fuel tanks so use Bp editing**)
 
 ****FYI: THIS ONLY WORKS WITH BASIC FUEL TANKS (resize basic fuel tanks to desired size then use the texture)****
 
