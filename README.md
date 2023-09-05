@@ -13,6 +13,10 @@ Brazilian Space Agency Logo
 
 Italian Space Agency Logo
 
+Apollo 11 Logo x2
+
+Artemis Logo x2
+
 Australian Space Agency Logo
 
 Blank transparent texture (just because)
@@ -23,13 +27,15 @@ Canadian Space Agency Logo
 
 French Space Agency Logo
 
+Challenger Logo
+
 Chinese Space Agency Logo
 
 German Space Agency Logo
 
 Egyptian Space Agency Logo
 
-ESA logo x3
+ESA logo x4
 
 Indian Space Agency Logo
 
@@ -57,7 +63,9 @@ Romanian Space Agency Logo
 
 Roscosmos Logo x2
 
-SpaceX Logo x2
+Space Shuttle Logo
+
+SpaceX Logo x3
 
 Tesla Logo
 
@@ -72,6 +80,8 @@ ULA Logo x2
 UN Logo
 
 UAE Space Agency Logo
+
+Voyager Logo
 
 Put the texture pack (Png.Textures.BP.preview.zip) into "Steam\steamapps\common\Spaceflight Simulator\Spaceflight Simulator Game\Mods\Custom Assets\Texture Packs" and put the bp file (Lots.of.Logos.zip) into "Steam\steamapps\common\Spaceflight Simulator\Spaceflight Simulator Game\Saving\Blueprints"
 
