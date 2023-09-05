@@ -3,8 +3,6 @@ Adds more textures to Spaceflight Simulator specifically png ones
 
 **BP editing is highly advised, and some textures might not work with (ex: size 4 fuel tanks so use Bp editing**)
 
-****FYI: THIS ONLY WORKS WITH BASIC FUEL TANKS (resize basic fuel tanks to desired size then use the texture)****
-
 **I reccommend using these as fairings and not fuel tanks to overlap fuel tanks which is the purpose of the logos, use a bp editor mod or just normal bp editing to resize the textures to your liking.**
 
 This pack indludes:
